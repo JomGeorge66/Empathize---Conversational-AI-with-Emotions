@@ -27,7 +27,7 @@ Supported emotions include: **happy, sad, anger, surprise, disgust, fear,** and 
 1. **Input & Preprocessing:**
    - **Microphone Capture:** Live audio is captured.
    - **Parallel Analysis:**
-     - **Whisper Module:** Transcribes the speech.
+     - **Faster-Whisper Module:** Transcribes the speech.
      - **Emotion DNN:** Predicts emotion from the speech signal.
 2. **Agentic AI Response Generation:**
    - Combines the transcribed text with the detected emotion.
@@ -47,7 +47,7 @@ Supported emotions include: **happy, sad, anger, surprise, disgust, fear,** and 
 
 ### Speech-to-Text Transcription
 
-- **Whisper Integration:** OpenAI Whisper runs in parallel with the emotion recognition module, ensuring real-time transcription.
+- **Whisper Integration:** Faster Whisper runs in parallel with the emotion recognition module, ensuring real-time transcription.
 
 ### Agentic AI for Empathetic Conversations
 
