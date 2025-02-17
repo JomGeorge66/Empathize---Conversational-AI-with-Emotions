@@ -144,7 +144,7 @@ source Zonos/.venv/bin/activate
 ```
 ##### Installing all the dependencies
 ```bash
-cd ..
+cd .. #Go back from the Zonos folder
 pip install -r requirements.txt
 ```
 ##### Run the main.py file in Main Folder
