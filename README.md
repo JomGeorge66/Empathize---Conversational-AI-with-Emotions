@@ -10,7 +10,7 @@ Empathize integrates several state-of-the-art components:
 
 - **Live Speech Input:** Captures audio from a microphone.
 - **Dual-Path Processing:**
-  - **Speech-to-Text:** Uses OpenAI Whisper to transcribe live speech.
+  - **Speech-to-Text:** Uses Faster-Whisper to transcribe live speech.
   - **Emotion Recognition:** Leverages a deep neural network (DNN) trained on the Toronto Emotional Speech Set (via Kaggle) with Wav2Vec, achieving 99.6% accuracy.
 - **Agentic AI:** Consumes the transcription and detected emotion to generate an empathetic, context-aware response.
 - **Emotion-Controllable TTS:** Employs the open-source Zonos model to synthesize speech that reflects the desired emotional tone.
