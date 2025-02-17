@@ -137,6 +137,11 @@ cd Zonos
 uv sync
 uv pip install -e .
 ```
+#### Activate the Virtual enviornment in Zonos folder in your Code editor (Important)
+
+```bash
+source Zonos/.venv/bin/activate
+```
 ##### Installing all the dependencies
 ```bash
 cd ..
