@@ -138,6 +138,7 @@ uv sync
 uv pip install -e .
 ```
 #### Activate the Virtual enviornment in Zonos folder in your Code editor (Important)
+Make sure you give your enviornment path in the 'Select Interpreter' option.
 
 ```bash
 source Zonos/.venv/bin/activate
