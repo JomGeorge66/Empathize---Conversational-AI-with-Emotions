@@ -1,8 +1,9 @@
 # Empathize - Conversation AI with Emotions
 
-**Note: The files are being uploaded and are not completed yet.**
 
 Empathize is a modular conversational AI platform that seamlessly blends real-time speech emotion recognition with expressive text-to-speech (TTS) synthesis. By capturing user speech via microphone, analyzing its emotional content, and generating empathetic responses, Empathize creates a truly human-like conversational experience.
+
+**Note: The files are being uploaded and are not completed yet.**
 
 ---
 
