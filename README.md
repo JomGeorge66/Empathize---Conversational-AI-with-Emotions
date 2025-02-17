@@ -125,9 +125,12 @@ apt install -y espeak-ng # For Ubuntu
 ```
 
 #### Python dependencies
-##### Installing into a new uv virtual environment (recommended)
+
+
+##### Clone this repository & Installing into a new uv virtual environment (recommended)
 
 ```bash
+cd Zonos
 uv sync
 uv pip install -e .
 ```
