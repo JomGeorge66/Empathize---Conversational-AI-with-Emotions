@@ -139,6 +139,7 @@ uv pip install -e .
 ```
 ##### Installing all the dependencies
 ```bash
+cd ..
 pip install -r requirements.txt
 ```
 ##### Run the main.py file in Main Folder
