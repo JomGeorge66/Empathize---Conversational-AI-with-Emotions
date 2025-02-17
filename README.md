@@ -129,7 +129,7 @@ apt install -y espeak-ng # For Ubuntu
 ##### Clone this repository
 ```bash
 git clone https://github.com/JomGeorge66/Empathize---Conversational-AI-with-Emotions.git
-cd Zonos
+cd Empathize---Conversational-AI-with-Emotions/Zonos/
 ```
 ##### Installing into a new uv virtual environment (recommended)
 
