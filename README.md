@@ -97,26 +97,6 @@ This unified configuration allows you to precisely tailor the TTS output, ensuri
 
 ---
 
-## Integration Options
-
-Your AI agent can interact with Empathize in two common ways:
-
-### 1. Subprocess Invocation
-
-Invoke the TTS script from your agent using a subprocess call. For example:
-
-```python
-import subprocess
-
-subprocess.run([
-    "python", "tts_emotion.py",
-    "--text", "Your AI-generated sentence",
-    "--happiness", "0.9",
-    "--sadness", "0.1",
-    # ... include other emotion and audio parameters as needed ...
-])
-```
-
 ## Installation
 
 #### System requirements
