@@ -148,8 +148,10 @@ Zonos/.venv/bin/python3.12
 cd .. #Go back from the Zonos folder
 pip install -r requirements.txt
 ```
-##### Run the main.py file in Main Folder
+### Running The Program
+####Navigate to Zonos & Run empathizeai.py
+
 ```bash
-cd Main
-python3 main.py
+cd Zonos
+python3 empathiseai.py
 ```
