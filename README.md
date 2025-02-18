@@ -4,9 +4,9 @@
 Empathize is a modular conversational AI platform that seamlessly blends real-time speech emotion recognition with expressive text-to-speech (TTS) synthesis. By capturing user speech via microphone, analyzing its emotional content, and generating empathetic responses, Empathize creates a truly human-like conversational experience.
 
 ## Important Note
-**Speech to text model and TTS model could not be loaded together due to VRAM limitations of my system. 6GB of VRAM was not sufficient. CUDA was running out of memory.**
-**However STT and TTS with emotions are working individually, and they can be integrated and implemented on a powerful system.**
-Even while testing, TTS with emotions, CUDA was running out of memory for longer conversations.
+- **Speech to text model and TTS model could not be loaded together due to VRAM limitations of my system.** 6GB of VRAM was not sufficient. **CUDA was running out of memory.**
+- **However STT and TTS with emotions are working individually, and they can be integrated and implemented on a powerful system.**
+- Even while testing, TTS with emotions, CUDA was running out of memory for longer conversations.
 
 
 **Note: The files are being uploaded and are not completed yet.**
