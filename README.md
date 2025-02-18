@@ -12,8 +12,7 @@ Empathize is a modular conversational AI platform that seamlessly blends real-ti
 **Note: The files are being uploaded and are not completed yet.**
 
 ## Watch the demo here:
-https://www.loom.com/share/4944e6318d764b7994828571b40b4fee?sid=4899e0aa-adbc-4153-adcb-31e1e53c679c
-
+https://www.loom.com/share/4944e6318d764b7994828571b40b4fee?sid=6291b024-b4f4-499f-971c-76d8063e587d
 ### Also watch a video about the project overview:
 https://youtu.be/6_rKNqf_Gf8
 
