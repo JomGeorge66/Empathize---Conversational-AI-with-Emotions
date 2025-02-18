@@ -24,8 +24,8 @@ class SimpleTranscriber:
 
         # Silence Detection Settings
         self.SILENCE_THRESHOLD = 0.02  # Adjust this for sensitivity
-        self.SILENCE_WINDOW = self.RATE // 2  # Duration of silence to detect (0.5 seconds)
-        self.MIN_AUDIO_LENGTH = self.RATE * 2  # Minimum length of 3 seconds of audio
+        self.SILENCE_WINDOW = self.RATE // 1  # Duration of silence to detect (0.5 seconds)
+        self.MIN_AUDIO_LENGTH = self.RATE * 0.2  # Minimum length of 3 seconds of audio
 
         # Processing Variables
         self.audio_queue = queue.Queue()
