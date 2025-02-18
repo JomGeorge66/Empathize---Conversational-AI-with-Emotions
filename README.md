@@ -54,8 +54,7 @@ Supported emotions include: **happy, sad, anger, surprise, disgust, fear,** and 
 ### Speech Emotion Recognition
 
 - **Model Training:** The emotion DNN was trained on the Toronto Emotional Speech Set from Kaggle and integrated with Wav2Vec for high accuracy.
-- **Assets:** All training scripts and pretrained models are available in the `assets/` directory.
-
+- 
 ### Speech-to-Text Transcription
 
 - **Whisper Integration:** Faster Whisper runs in parallel with the emotion recognition module, ensuring real-time transcription.
