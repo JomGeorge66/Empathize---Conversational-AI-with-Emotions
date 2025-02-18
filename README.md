@@ -54,7 +54,7 @@ Supported emotions include: **happy, sad, anger, surprise, disgust, fear,** and 
 ### Speech Emotion Recognition
 
 - **Model Training:** The emotion DNN was trained on the Toronto Emotional Speech Set from Kaggle and integrated with Wav2Vec for high accuracy.
-- 
+  
 ### Speech-to-Text Transcription
 
 - **Whisper Integration:** Faster Whisper runs in parallel with the emotion recognition module, ensuring real-time transcription.
@@ -64,7 +64,7 @@ Supported emotions include: **happy, sad, anger, surprise, disgust, fear,** and 
 - **Response Generation:** Based on the transcribed text and emotion data, the Agentic AI crafts responses that are not only contextually relevant but also emotionally resonant.
 - **Emotion Parameter Guidance:** These responses include specific emotion parameters used to steer the TTS output.
 
-## Advanced Text-to-Speech Synthesis
+## TTS Parameters for Emotion Control
 
 Empathize employs Zonos TTS—a flexible, open-source text-to-speech engine—to transform generated text into natural, expressive speech. This system is designed to provide detailed control over the vocal output through an array of configuration parameters:
 
